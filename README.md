@@ -1,4 +1,4 @@
-# YouTube Clone - Flutter App
+# Flutter Google Auth - Flutter App
 
 A modern Flutter application with Google Sign-In and email-password authentication, featuring a beautiful neumorphic UI design.
 
@@ -13,8 +13,8 @@ A modern Flutter application with Google Sign-In and email-password authenticati
 ## Screenshots
 
 <div style="display: flex; gap: 20px; margin: 20px 0;">
-  <img src="assets/images/login_screen.png" alt="Login Screen" width="300" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
-  <img src="assets/images/home_screen.png" alt="Home Screen" width="300" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+  <img src="assets/images/flutter_01.png" alt="Login Screen" width="300" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+  <img src="assets/images/flutter_02.png" alt="Home Screen" width="300" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
 </div>
 
 ## Setup Instructions
@@ -54,7 +54,7 @@ This will:
 #### Step 1: Create Firebase Project
 1. Go to [Firebase Console](https://console.firebase.google.com/)
 2. Click "Add project"
-3. Enter project name (e.g., "youtube-clone")
+3. Enter project name (e.g., "flutter-google-auth")
 4. Enable Google Analytics (optional)
 5. Click "Create project"
 
@@ -95,7 +95,7 @@ This will:
 #### Step 1: Clone the Repository
 ```bash
 git clone <your-repo-url>
-cd yt_clone
+cd flutter-google-auth
 ```
 
 #### Step 2: Install Dependencies
