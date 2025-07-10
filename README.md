@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Flutter Google Auth - Flutter App
+=======
+# A example of Sign in with Google
+>>>>>>> 85ee8d139d15f41e4a8479574a8166f22d9b9c7d
 
 A modern Flutter application with Google Sign-In and email-password authentication, featuring a beautiful neumorphic UI design.
 
