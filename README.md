@@ -1,4 +1,4 @@
-# YouTube Clone - Flutter App
+# A example of Sign in with Google
 
 A modern Flutter application with Google Sign-In and email-password authentication, featuring a beautiful neumorphic UI design.
 
