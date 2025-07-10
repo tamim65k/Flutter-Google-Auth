@@ -1,9 +1,4 @@
-<<<<<<< HEAD
 # Flutter Google Auth - Flutter App
-=======
-# A example of Sign in with Google
->>>>>>> 85ee8d139d15f41e4a8479574a8166f22d9b9c7d
-
 A modern Flutter application with Google Sign-In and email-password authentication, featuring a beautiful neumorphic UI design.
 
 ## Features
@@ -157,12 +152,7 @@ lib/
 - ✅ Modern neumorphic design
 - ✅ Error handling and user feedback
 
-### Home Screen
-- ✅ User profile display
-- ✅ Authentication method indicator
-- ✅ Quick action buttons
-- ✅ Statistics cards
-- ✅ Sign out functionality
+
 
 ## Troubleshooting
 
@@ -183,13 +173,6 @@ lib/
    - Verify server client ID in `.env` file
    - Test with different Google accounts
 
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Test thoroughly
-5. Submit a pull request
 
 ## License
 
