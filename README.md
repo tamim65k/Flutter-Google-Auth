@@ -1,16 +1,30 @@
-# firebase
+**Firebase Task Manager**
+==========================
 
-A new Flutter project.
+A Flutter-based task management application that utilizes Firebase for data storage and authentication.
 
-## Getting Started
+**Features**
+------------
 
-This project is a starting point for a Flutter application.
+* User authentication using Firebase Authentication
+* Task creation and management using Firebase Firestore
+* Task listing and filtering
+* Task editing and deletion
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+**Dependencies**
+----------------
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* `cloud_firestore`: For interacting with Firebase Firestore
+* `firebase_auth`: For user authentication
+* `firebase_core`: For Firebase initialization
+* `flutter`: The Flutter framework
+* `intl`: For internationalization and formatting
+* `uuid`: For generating unique IDs
+
+**License**
+----------
+
+This project is licensed under the MIT License. See the `LICENSE` file for details.
+
+Please note that this is just a draft, and you may want to add or modify sections to better fit your project's specific needs. Additionally, you'll need to update the `README.md` file to reflect any changes you make to your project.
